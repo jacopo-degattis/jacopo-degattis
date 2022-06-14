@@ -1,5 +1,7 @@
-<pre>One must still have chaos in oneself to be able to give birth to a dancing star.</pre>
-<pre>Friedrich Nietzsche</pre>
+```
+One must still have chaos in oneself to be able to give birth to a dancing star.
+Friedrich Nietzsche
+```
 
 <!---
 jacopo-degattis/jacopo-degattis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
